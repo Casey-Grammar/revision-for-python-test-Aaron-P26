@@ -1,9 +1,9 @@
 # Task 2: James Bond
 def main():
     #Write your code for input here
-    firstname = input('What is your first name')
-    lastname = input('What is your last name')
-    print('My name is " + lastname +", " firstname + lastname)
+    firstName = input('What is your first Name')
+    lastName = input('What is your last Name')
+    print('My name is " + lastName + ", " + firstname + " " + lastname)
 
 
     # End of your code for input here
