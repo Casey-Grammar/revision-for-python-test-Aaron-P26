@@ -5,7 +5,13 @@
 
 def main():
     #Write your code here
-    
+    password = input("What is the password Ali? ")
+    if password == "Open seasame!":
+        print('The cave door opens!')
+
+     
+
+
 
 
     # End of your code here
